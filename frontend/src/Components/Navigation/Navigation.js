@@ -37,8 +37,8 @@ const NavStyled = styled.nav`
     width: 374px;
     height: 100%;
     background: rgba(252, 246, 249, 0.78);
-    background: lightblue;
-    border: 3px solid #FFFFFF;
+    background: #D7B29D;
+    border: 3px solid #796465;
     backdrop-filter: blur(4.5px);
     border-radius: 32px;
     display: flex;
