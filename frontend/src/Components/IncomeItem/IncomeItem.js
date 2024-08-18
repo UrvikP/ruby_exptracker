@@ -97,9 +97,10 @@ function IncomeItem({
         </IncomeItemStyled>
     )
 }
-
+// background: #FCF6F9;
+// color: #222260;
 const IncomeItemStyled = styled.div`
-    background: #FCF6F9;
+    background: lightblue;
     border: 2px solid #FFFFFF;
     box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.06);
     border-radius: 20px;
